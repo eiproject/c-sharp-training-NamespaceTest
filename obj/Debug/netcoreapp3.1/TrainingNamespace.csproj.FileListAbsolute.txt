@@ -1,0 +1,13 @@
+C:\Lab Formulatrix\TrainingNamespace\bin\Debug\netcoreapp3.1\TrainingNamespace.exe
+C:\Lab Formulatrix\TrainingNamespace\bin\Debug\netcoreapp3.1\TrainingNamespace.deps.json
+C:\Lab Formulatrix\TrainingNamespace\bin\Debug\netcoreapp3.1\TrainingNamespace.runtimeconfig.json
+C:\Lab Formulatrix\TrainingNamespace\bin\Debug\netcoreapp3.1\TrainingNamespace.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingNamespace\bin\Debug\netcoreapp3.1\TrainingNamespace.dll
+C:\Lab Formulatrix\TrainingNamespace\bin\Debug\netcoreapp3.1\TrainingNamespace.pdb
+C:\Lab Formulatrix\TrainingNamespace\obj\Debug\netcoreapp3.1\TrainingNamespace.csprojAssemblyReference.cache
+C:\Lab Formulatrix\TrainingNamespace\obj\Debug\netcoreapp3.1\TrainingNamespace.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingNamespace\obj\Debug\netcoreapp3.1\TrainingNamespace.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingNamespace\obj\Debug\netcoreapp3.1\TrainingNamespace.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingNamespace\obj\Debug\netcoreapp3.1\TrainingNamespace.dll
+C:\Lab Formulatrix\TrainingNamespace\obj\Debug\netcoreapp3.1\TrainingNamespace.pdb
+C:\Lab Formulatrix\TrainingNamespace\obj\Debug\netcoreapp3.1\TrainingNamespace.genruntimeconfig.cache
